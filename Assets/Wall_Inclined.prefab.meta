@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57e8b8b5672ce28429eeff6ffea2eab6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298990
+  packageName: The Forgotten Sewers
+  packageVersion: 1.0.1
+  assetPath: Assets/TB_ForgottenSewers/Prefabs/Structures__Generic/Wall_Inclined.prefab
+  uploadId: 703889
